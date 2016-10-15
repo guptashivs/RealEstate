@@ -21,9 +21,9 @@ body{
 
 .heroDiv{
 	width: 500px;
-    height: 50%;
-    margin-left: 142px;
-    padding-top: 24px;
+        height: 50%;
+        margin-left: 142px;
+        padding-top: 24px;
 }
 
 .heroDiv h1{
@@ -40,13 +40,13 @@ body{
 /* Main content style : start*/
 .maincontent{
 	height: 400px;
-    width: 100%;
-    z-index: 0;
-    display: -webkit-flex; /* Safari */
-    -webkit-flex-wrap: wrap; /* Safari 6.1+ */
-    display: flex;   
-    flex-wrap: wrap;
-    justify-content: center;
+        width: 100%;
+        z-index: 0;
+        display: -webkit-flex; /* Safari */
+       -webkit-flex-wrap: wrap; /* Safari 6.1+ */
+        display: flex;   
+        flex-wrap: wrap;
+        justify-content: center;
 }
 
 .leftContent{
@@ -96,11 +96,11 @@ body{
 
 .navHeader{
 	position: absolute;
-    z-index: 3;
-    top: 8%;
-    left: 191px;
-    width: 100%;
-    border-bottom: 10px solid #546ab3;
+        z-index: 3;
+        top: 8%;
+        left: 191px;
+        width: 100%;
+        border-bottom: 10px solid #546ab3;
 	background-color: #ffffff;
 }
 
@@ -139,7 +139,7 @@ body{
 
 .modalHeader h2{
 	margin: 0;
-    padding-top: 37px;
+        padding-top: 37px;
 	color: #fff;
 }
 
