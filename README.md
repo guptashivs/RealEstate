@@ -6,3 +6,4 @@ Closing the modal, when clicked on the close button, outside the modal or when E
 Tech Stack: HTML5, CSS3, JS
 
 Layout: Responsive across IPhone, IPad
+CodePen :  https://codepen.io/guptashivani/full/veNwKd/
